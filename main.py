@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+
+# Russell Felts
+# Pig Latin Assignment 05
+
+""" You'll use the code to scrape a random fact from http://unkno.com (Links to an external site.)
+and send it to a pig latin web application running on Heroku. """
+
 import os
 
 import requests
